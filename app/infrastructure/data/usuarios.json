@@ -2,120 +2,160 @@
   {
     "id": 1,
     "nombre": "Jhon Doe",
+    "username": "jhon.doe",
+    "password": "password1",
     "rol": "admin",
     "renta_mensual": 2523.06
   },
   {
     "id": 2,
     "nombre": "Juan Pérez",
+    "username": "juan.perez",
+    "password": "password2",
     "rol": "admin",
     "renta_mensual": 1515.57
   },
   {
     "id": 3,
     "nombre": "Ana Torres",
+    "username": "ana.torres",
+    "password": "password3",
     "rol": "supervisor",
     "renta_mensual": 4292.52
   },
   {
     "id": 4,
     "nombre": "Luis Gómez",
+    "username": "luis.gomez",
+    "password": "password4",
     "rol": "supervisor",
     "renta_mensual": 4710.2
   },
   {
     "id": 5,
     "nombre": "María López",
+    "username": "maria.lopez",
+    "password": "password5",
     "rol": "supervisor",
     "renta_mensual": 4831.71
   },
   {
     "id": 6,
     "nombre": "Carlos Sánchez",
+    "username": "carlos.sanchez",
+    "password": "password6",
     "rol": "admin",
     "renta_mensual": 2059.9
   },
   {
     "id": 7,
     "nombre": "Lucía Fernández",
+    "username": "lucia.fernandez",
+    "password": "password7",
     "rol": "admin",
     "renta_mensual": 3155.8
   },
   {
     "id": 8,
     "nombre": "Pedro Ramírez",
+    "username": "pedro.ramirez",
+    "password": "password8",
     "rol": "supervisor",
     "renta_mensual": 2732.34
   },
   {
     "id": 9,
     "nombre": "Sofía Herrera",
+    "username": "sofia.herrera",
+    "password": "password9",
     "rol": "supervisor",
     "renta_mensual": 1735.99
   },
   {
     "id": 10,
     "nombre": "Diego Castro",
+    "username": "diego.castro",
+    "password": "password10",
     "rol": "admin",
     "renta_mensual": 3658.47
   },
   {
     "id": 11,
     "nombre": "Valentina Ríos",
+    "username": "valentina.rios",
+    "password": "password11",
     "rol": "usuario",
     "renta_mensual": 1585.69
   },
   {
     "id": 12,
     "nombre": "Mateo Vargas",
+    "username": "mateo.vargas",
+    "password": "password12",
     "rol": "usuario",
     "renta_mensual": 1980.94
   },
   {
     "id": 13,
     "nombre": "Camila Navarro",
+    "username": "camila.navarro",
+    "password": "password13",
     "rol": "usuario",
     "renta_mensual": 3264.64
   },
   {
     "id": 14,
     "nombre": "Emilio Ortega",
+    "username": "emilio.ortega",
+    "password": "password14",
     "rol": "usuario",
     "renta_mensual": 1307.84
   },
   {
     "id": 15,
     "nombre": "Isabella Fuentes",
+    "username": "isabella.fuentes",
+    "password": "password15",
     "rol": "usuario",
     "renta_mensual": 2889.94
   },
   {
     "id": 16,
     "nombre": "Tomás Morales",
+    "username": "tomas.morales",
+    "password": "password16",
     "rol": "usuario",
     "renta_mensual": 2594.33
   },
   {
     "id": 17,
     "nombre": "Renata Salazar",
+    "username": "renata.salazar",
+    "password": "password17",
     "rol": "usuario",
     "renta_mensual": 3750.33
   },
   {
     "id": 18,
     "nombre": "Gabriel Paredes",
+    "username": "gabriel.paredes",
+    "password": "password18",
     "rol": "usuario",
     "renta_mensual": 1315.01
   },
   {
     "id": 19,
     "nombre": "Florencia León",
+    "username": "florencia.leon",
+    "password": "password19",
     "rol": "usuario",
     "renta_mensual": 1428.84
   },
   {
     "id": 20,
     "nombre": "Sebastián Riquelme",
+    "username": "sebastian.riquelme",
+    "password": "password20",
     "rol": "usuario",
     "renta_mensual": 3359.13
   }
