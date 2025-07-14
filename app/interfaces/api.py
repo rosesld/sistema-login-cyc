@@ -23,7 +23,7 @@ async def login(data: LoginRequest) -> Response:
 
         # Se guarda la sesión en memoria
         sessions[session_id] = user.model_dump()
-        print(f"Generando sesión con ID: {session_id}")
+        # print(f"Generando sesión con ID: {session_id}")
 
         return Response(
             status_code=200,

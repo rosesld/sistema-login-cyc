@@ -1,9 +1,15 @@
-from app.infrastructure.repositories.user_repository import UserRepository
-from app.domain.user import User
 from pathlib import Path
 
-# Inicializa el repositorio de usuarios, indicando la ruta del archivo JSON
-repo = UserRepository(
+from app.domain.user import User
+from app.config.settings import USE_DATABASE
+
+if USE_DATABASE:
+    from app.infrastructure.repositories.user_repository_sqlalchemy import SQLUserRepository as Repo
+else:
+    from app.infrastructure.repositories.user_repository import UserRepository as Repo
+
+# Inicializa el repositorio de usuarios
+repo = Repo() if USE_DATABASE else Repo(
     file_path=Path(__file__).parent.parent.parent / "app" / "infrastructure" / "data" / "usuarios.json"
 )
 

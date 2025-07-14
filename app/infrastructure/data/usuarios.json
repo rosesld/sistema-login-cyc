@@ -3,7 +3,7 @@
     "id": 1,
     "nombre": "Jhon Doe",
     "username": "jhon.doe",
-    "password": "password1",
+    "password": "$2b$12$gLEbiq2Wl2Ez00fN4wYFKuUOWJZrddBymDuCO5yppohORzXAq0rDi",
     "rol": "admin",
     "renta_mensual": 2523.06
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "nombre": "Juan Pérez",
     "username": "juan.perez",
-    "password": "password2",
+    "password": "$2b$12$7F97gHHcSn3LmdivtNHJN.FxRKMpamHfA8y/hJ0FIKBgVsHX7hEOi",
     "rol": "admin",
     "renta_mensual": 1515.57
   },
@@ -19,7 +19,7 @@
     "id": 3,
     "nombre": "Ana Torres",
     "username": "ana.torres",
-    "password": "password3",
+    "password": "$2b$12$TLn1EhLdjFX6MwQ9RIO2fOA8fpQqlnWBQTJWEulSA4jfRC5NEvzqq",
     "rol": "supervisor",
     "renta_mensual": 4292.52
   },
@@ -27,7 +27,7 @@
     "id": 4,
     "nombre": "Luis Gómez",
     "username": "luis.gomez",
-    "password": "password4",
+    "password": "$2b$12$V03/xAnbpgukVMHzQkHN2uBdOnOEeaIrblXLEJDvlKaXIo/oZcasK",
     "rol": "supervisor",
     "renta_mensual": 4710.2
   },
@@ -35,7 +35,7 @@
     "id": 5,
     "nombre": "María López",
     "username": "maria.lopez",
-    "password": "password5",
+    "password": "$2b$12$n2baM8JuGU./VnOAF4FLQ.uT2KdSY2.1y8G/ibTG6ha0mp2XVC5na",
     "rol": "supervisor",
     "renta_mensual": 4831.71
   },
@@ -43,7 +43,7 @@
     "id": 6,
     "nombre": "Carlos Sánchez",
     "username": "carlos.sanchez",
-    "password": "password6",
+    "password": "$2b$12$wHJPvWhuiWxFIxnXmdCnU.81YgJ84lwqyloxFiB492ZRLj96LJ0di",
     "rol": "admin",
     "renta_mensual": 2059.9
   },
@@ -51,7 +51,7 @@
     "id": 7,
     "nombre": "Lucía Fernández",
     "username": "lucia.fernandez",
-    "password": "password7",
+    "password": "$2b$12$Hq8m3UDgtzomDC7baJ4jm.VuGxKx19ORO8LwwWAtV1DTdxY0dBBUe",
     "rol": "admin",
     "renta_mensual": 3155.8
   },
@@ -59,7 +59,7 @@
     "id": 8,
     "nombre": "Pedro Ramírez",
     "username": "pedro.ramirez",
-    "password": "password8",
+    "password": "$2b$12$vXlDlD0qTvPxWQJnSjrAA.ncDFflbXS2T.Q3xee3DbFKgsnXh7ak6",
     "rol": "supervisor",
     "renta_mensual": 2732.34
   },
@@ -67,7 +67,7 @@
     "id": 9,
     "nombre": "Sofía Herrera",
     "username": "sofia.herrera",
-    "password": "password9",
+    "password": "$2b$12$2tpXJO8sUHBMwVP9/GPLJO4kyY0piXMw9/VvLvKYmJqe52sOLMLr6",
     "rol": "supervisor",
     "renta_mensual": 1735.99
   },
@@ -75,7 +75,7 @@
     "id": 10,
     "nombre": "Diego Castro",
     "username": "diego.castro",
-    "password": "password10",
+    "password": "$2b$12$rXEO5AUKwOSxP6G7/6Jr0.DA6aesHdcZDPrw5VA8xZx.TSI.a1v4O",
     "rol": "admin",
     "renta_mensual": 3658.47
   },
@@ -83,7 +83,7 @@
     "id": 11,
     "nombre": "Valentina Ríos",
     "username": "valentina.rios",
-    "password": "password11",
+    "password": "$2b$12$C1IdlOZ7TlcMvgoNUWQHh.4MeSXTz.xdcZbzhY4R/hVyHy4CNN83i",
     "rol": "usuario",
     "renta_mensual": 1585.69
   },
@@ -91,7 +91,7 @@
     "id": 12,
     "nombre": "Mateo Vargas",
     "username": "mateo.vargas",
-    "password": "password12",
+    "password": "$2b$12$P1h8FzFvSpUa/0XQF8sTme2TN/mNBgdAHLiD56BvTSQ1yWrjAk4bO",
     "rol": "usuario",
     "renta_mensual": 1980.94
   },
@@ -99,7 +99,7 @@
     "id": 13,
     "nombre": "Camila Navarro",
     "username": "camila.navarro",
-    "password": "password13",
+    "password": "$2b$12$DaKdOWIlZl1/Ga10RyxIN.00Ukx73.JcKcYYGfyIJKK92lZXNwAL6",
     "rol": "usuario",
     "renta_mensual": 3264.64
   },
@@ -107,7 +107,7 @@
     "id": 14,
     "nombre": "Emilio Ortega",
     "username": "emilio.ortega",
-    "password": "password14",
+    "password": "$2b$12$xlhOOePiHRClZugi.yI.qOdLuj5zVYwcV/vC.DlqqDNu4hRWM.Rhi",
     "rol": "usuario",
     "renta_mensual": 1307.84
   },
@@ -115,7 +115,7 @@
     "id": 15,
     "nombre": "Isabella Fuentes",
     "username": "isabella.fuentes",
-    "password": "password15",
+    "password": "$2b$12$rZjocmiIqKKTFDoOKOIsouC.oEK50/9OVlCnofsbb1UQFZxEPTsUK",
     "rol": "usuario",
     "renta_mensual": 2889.94
   },
@@ -123,7 +123,7 @@
     "id": 16,
     "nombre": "Tomás Morales",
     "username": "tomas.morales",
-    "password": "password16",
+    "password": "$2b$12$mSMimA0/1D7rJxsrOVIyy.HxbVmpwhmClv8UzRAGLnx/ltXthWdpi",
     "rol": "usuario",
     "renta_mensual": 2594.33
   },
@@ -131,7 +131,7 @@
     "id": 17,
     "nombre": "Renata Salazar",
     "username": "renata.salazar",
-    "password": "password17",
+    "password": "$2b$12$AoKoy.UF6wqfB/.4aYiXX.N9aVZ8NBftevEBjL9fffAwd51k1p1EW",
     "rol": "usuario",
     "renta_mensual": 3750.33
   },
@@ -139,7 +139,7 @@
     "id": 18,
     "nombre": "Gabriel Paredes",
     "username": "gabriel.paredes",
-    "password": "password18",
+    "password": "$2b$12$epUcKYcX.jCCaDCcXenSrO8RVVtFOE2A4mLYfYycBstwBlIVmkJPO",
     "rol": "usuario",
     "renta_mensual": 1315.01
   },
@@ -147,7 +147,7 @@
     "id": 19,
     "nombre": "Florencia León",
     "username": "florencia.leon",
-    "password": "password19",
+    "password": "$2b$12$4bMobza.CYOFzzetMWjJl.55qxH6vTTeR9egdAt0bhlS3OApf79/y",
     "rol": "usuario",
     "renta_mensual": 1428.84
   },
@@ -155,7 +155,7 @@
     "id": 20,
     "nombre": "Sebastián Riquelme",
     "username": "sebastian.riquelme",
-    "password": "password20",
+    "password": "$2b$12$WQs.EFqU4naOSyqJ8WrfEuaHjq7AJk1Kdig8VK5rsV4dlN6d47oYa",
     "rol": "usuario",
     "renta_mensual": 3359.13
   }
