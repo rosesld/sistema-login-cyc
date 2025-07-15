@@ -11,8 +11,6 @@ El backend está desarrollado con **Python y Litestar**, y permite elegir entre 
 
 [https://sistema-login-cyc.netlify.app](https://sistema-login-cyc.netlify.app)
 
----
-
 ## Usuarios para prueba
 
 | Rol       | Username     | Contraseña |
@@ -21,16 +19,11 @@ El backend está desarrollado con **Python y Litestar**, y permite elegir entre 
 | Supervisor| ana.torres | password3     |
 | Usuario   | camila.navarro       | password13    |
 
----
-
----
 ## Requisitos
 
 - Python 3.10+
 - pip
 - (Opcional) SQLite instalado localmente para base de datos
-
----
 
 ## Instalación
 
@@ -41,7 +34,6 @@ git clone https://github.com/rosesld/sistema-login-cyc.git
 cd sistema_login_cyc
 
 ```
----
 
 ## Crea y activa un entorno virtual
 ```bash
@@ -55,7 +47,6 @@ venv\Scripts\activate
 ```
 source venv/bin/activate
 ```
----
 
 ## Instala dependencias
 
