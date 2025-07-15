@@ -30,5 +30,5 @@ class UserRepository:
     Devuelve un usuario que coincida con el username, o None si no existe
     """
     def get_by_username(self, username: str) -> Optional[User]:
-        print(f"Buscando usuario: {username}")
+        #print(f"Buscando usuario: {username}")
         return next((user for user in self.users if user.username == username), None)
